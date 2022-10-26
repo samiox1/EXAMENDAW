@@ -1,2 +1,2 @@
 asignatura:Desplieque de aplicaciones web
-despliegue de aplicaciones web: suspenso
+despliegue de aplicaciones web: notable
